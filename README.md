@@ -2,6 +2,9 @@
 
 In Google Chrome / Microsoft Edge on Windows, rendering this page **sometimes** results in texts overlapping each other.
 
+## Try it out
+[Try it out here](https://sozysozbot.github.io/chrome-rendering-bug-poc/index.html)
+
 ## Screenshots
 
 ### Microsoft Edge 96.0.1054.53 on Windows 10 Home 20H2 19042.1348 (64-bit)
