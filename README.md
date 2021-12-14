@@ -1,6 +1,6 @@
 # chrome rendering bug -- proof of concept
 
-In Google Chrome / Microsoft Edge on Windows, rendering this page **sometimes** results in texts overlapping each other.
+In (Google Chrome | Microsoft Edge | Chromium) on (Windows | Linux), rendering this page **sometimes** results in texts overlapping each other.
 
 ## Try it out
 [Try it out here](https://sozysozbot.github.io/chrome-rendering-bug-poc/index.html)
