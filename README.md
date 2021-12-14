@@ -18,3 +18,6 @@ In (Google Chrome | Microsoft Edge | Chromium) on (Windows | Linux), rendering t
 ### Chromium 96.0.4664.93 on Arch Linux (64-bit)
 
 ![](https://raw.githubusercontent.com/sozysozbot/chrome-rendering-bug-poc/master/img/fail_chrome_96.0.4664.93.png)
+
+### Microsoft Edge 98.0.1089.1 (Official build) dev on Arch Linux (64-bit)
+![](./img/fail_edge_96.0.1089.1.png)
