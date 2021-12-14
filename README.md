@@ -4,7 +4,7 @@ In Google Chrome / Microsoft Edge on Windows, rendering this page **sometimes** 
 
 ## Screenshots
 
-### Microsoft Edge 96.0.1054.53
+### Microsoft Edge 96.0.1054.53 on Windows 10 Home 20H2 19042.1348 (64-bit)
 
 ![](https://raw.githubusercontent.com/sozysozbot/chrome-rendering-bug-poc/master/img/fail_edge_96.0.1054.53.png)
 
